@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++  -I/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src -isystem /usr/local/include/SDL2 -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/main.cpp.o -c /mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src/main.cpp",
+  "file": "/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src/main.cpp"
+},
+{
+  "directory": "/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++  -I/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src -isystem /usr/local/include/SDL2 -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/game.cpp.o -c /mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src/game.cpp",
+  "file": "/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src/game.cpp"
+},
+{
+  "directory": "/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++  -I/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src -isystem /usr/local/include/SDL2 -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/controller.cpp.o -c /mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src/controller.cpp",
+  "file": "/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src/controller.cpp"
+},
+{
+  "directory": "/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++  -I/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src -isystem /usr/local/include/SDL2 -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/renderer.cpp.o -c /mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src/renderer.cpp",
+  "file": "/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src/renderer.cpp"
+},
+{
+  "directory": "/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/build",
+  "command": "/usr/bin/c++  -I/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src -isystem /usr/local/include/SDL2 -g   -std=c++17 -std=gnu++17 -o CMakeFiles/SnakeGame.dir/src/snake.cpp.o -c /mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src/snake.cpp",
+  "file": "/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/src/snake.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/build/CMakeFiles/rebuild_cache.dir
+/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/build/CMakeFiles/SnakeGame.dir
+/mnt/win/Udacity-C++-Nanodegree/Project_5/CppND-Capstone-Snake-Game/build/CMakeFiles/edit_cache.dir
